@@ -1,1 +1,2 @@
-# Algunas estructuras de datos
+# Estructuras de datos
+Muestr algunas estructuras de datos importantes 
