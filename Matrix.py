@@ -31,3 +31,4 @@ if __name__ == '__main__':
     
     matrix1.InsertColumn([2,3,4,5])
     print(matrix1)
+    
