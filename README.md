@@ -1,2 +1,2 @@
-# Estructuras de datos
-Muestra algunas estructuras de datos importantes 
+# Data structures
+This shows some important data structures 
